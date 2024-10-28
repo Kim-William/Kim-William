@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Kim WoongKeol!
+# 👋 Hello, I'm WoongKeol Kim!
 
 ### 🌐 About Me
 I'm a developer passionate about **Artificial Intelligence** and experienced in various programming languages and frameworks. My journey began with **C#** and **SQL**, and over the years, I've expanded my expertise to include **Python**, with a special focus on **Machine Learning**, **Natural Language Processing**, and **Deep Learning**.
