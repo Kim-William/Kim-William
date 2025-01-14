@@ -24,7 +24,7 @@ My aim is to contribute to innovative projects that leverage the potential of AI
 
 ### 📫 Contact Me
 Feel free to reach out via email at [kim.woongkeol@gmail.com](mailto:kim.woongkeol@gmail.com).
-<br>Personal Blog: [www.woongkeol.com](https://www.woongkeol.com)
+<br>Personal Blog: [www.woongkeol.blog](https://www.woongkeol.blog)
 
 ---
 
